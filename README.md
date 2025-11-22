@@ -1,4 +1,4 @@
-# Excel-to-PostgreSQL
+# Excel to PostgreSQL
 
 Read data under specific headers from multiple Excel files and insert to PostgreSQL database.
 
